@@ -1,3 +1,7 @@
+<div align="center"><img src="https://raw.githubusercontent.com/1stsimplifycode/1stsimplifycode/main/assets/universal-project-3d.svg" width="100%" alt="Animated isometric engineering project showcase" /></div>
+
+[← Engineering Portfolio](https://github.com/1stsimplifycode) · [Explore Domains](https://github.com/1stsimplifycode/1stsimplifycode/blob/main/docs/PROJECT_DIRECTORY.md)
+
 For a detailed exploration of the EcoEats project, including an in-depth look at our innovative approach to sustainable food delivery, we invite you to visit our GitHub repository. This repository serves as a comprehensive resource for understanding the mechanics, technologies, and philosophies that drive EcoEats towards minimizing environmental impact while maximizing delivery efficiency and customer satisfaction.
 
 GitHub Repository Content
